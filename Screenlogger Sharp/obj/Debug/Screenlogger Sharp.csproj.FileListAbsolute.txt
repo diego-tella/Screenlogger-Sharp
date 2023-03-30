@@ -1,0 +1,10 @@
+C:\Users\suici\OneDrive\Documentos\c#\Screenlogger Sharp\Screenlogger Sharp\bin\Debug\Screenlogger Sharp.exe.config
+C:\Users\suici\OneDrive\Documentos\c#\Screenlogger Sharp\Screenlogger Sharp\bin\Debug\Screenlogger Sharp.exe
+C:\Users\suici\OneDrive\Documentos\c#\Screenlogger Sharp\Screenlogger Sharp\bin\Debug\Screenlogger Sharp.pdb
+C:\Users\suici\OneDrive\Documentos\c#\Screenlogger Sharp\Screenlogger Sharp\obj\Debug\Screenlogger Sharp.csprojAssemblyReference.cache
+C:\Users\suici\OneDrive\Documentos\c#\Screenlogger Sharp\Screenlogger Sharp\obj\Debug\Screenlogger_Sharp.Form1.resources
+C:\Users\suici\OneDrive\Documentos\c#\Screenlogger Sharp\Screenlogger Sharp\obj\Debug\Screenlogger_Sharp.Properties.Resources.resources
+C:\Users\suici\OneDrive\Documentos\c#\Screenlogger Sharp\Screenlogger Sharp\obj\Debug\Screenlogger Sharp.csproj.GenerateResource.cache
+C:\Users\suici\OneDrive\Documentos\c#\Screenlogger Sharp\Screenlogger Sharp\obj\Debug\Screenlogger Sharp.csproj.CoreCompileInputs.cache
+C:\Users\suici\OneDrive\Documentos\c#\Screenlogger Sharp\Screenlogger Sharp\obj\Debug\Screenlogger Sharp.exe
+C:\Users\suici\OneDrive\Documentos\c#\Screenlogger Sharp\Screenlogger Sharp\obj\Debug\Screenlogger Sharp.pdb
